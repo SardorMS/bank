@@ -11,6 +11,7 @@ type Category string
 //Status - represents the status of the payments
 type Status string
 
+
 //Predefined payment statuses
 const (
 	StatusOK         Status = "OK"
